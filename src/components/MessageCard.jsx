@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[],
+  const message = `[Almaas Faridi],
 
 WISHING YOU A DAY THAT'S FILLED WITH EVERYTHING THAT MAKES YOU HAPPY.
 I'M SORRY FOR EVERYTHING I DID TO U BUT I'M GLAD THAT YOU'VE MOVED ON.
