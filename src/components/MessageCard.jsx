@@ -13,19 +13,21 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[],
 
-Your personalized birthday message goes here.
+WISHING YOU A DAY THAT'S FILLED WITH EVERYTHING THAT MAKES YOU HAPPY.
+I'M SORRY FOR EVERYTHING I DID TO U BUT I'M GLAD THAT YOU'VE MOVED ON.
+THANK YOU FOR EVERYTHING,I'M VERY GRATEFUL FOR ALL THE MEMORIES.
+YOU DESERVE ALL THE HAPPINESS IN THE WORLD.
+IM HAPPY FOR YOU TAKE CARE OF YOURSELF AND ENJOY THIS SPECIAL DAY.
+WISHING YOU A FUTURE THATS FILLED WITH LOVE,LAUGHTER,AND ALL YOURS DREAM COMING TRUE.
+FOR YOU IT IS JUST ANOTHER BIRTHDAY WISH.
+BUT FOR ME ,IT WAS A WAIT OF 80 DAYS.
+THERE'S MANY THING TO SAY BUT I'M SPEECHLESS.
+JUST HAVE A GREAT DAY! 🎉
+AND HAN
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— HAPPY BIRTHDAY ALMAAS FARIDI
 
   // Handle page transitions
   useEffect(() => {
